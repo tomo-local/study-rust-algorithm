@@ -1,0 +1,19 @@
+# コンパイル結果やビルド成果物
+/target
+/Cargo.lock
+
+# 実行ファイル
+/rust-algorithm-learning # プロジェクト名
+
+# テスト結果
+/test-results.xml
+
+# IntelliJ IDEA 関連ファイル
+/.idea/
+
+# macOS 関連ファイル
+/.DS_Store
+
+# その他のファイル
+*.swp # Swap ファイル
+*~ # バックアップファイル

@@ -1,0 +1,8 @@
+[package]
+name = "study-rust-algorithm"
+version = "0.1.0" # バージョン
+edition = "2021" # Rust のエディション
+
+[dependencies]
+
+[dev-dependencies]
