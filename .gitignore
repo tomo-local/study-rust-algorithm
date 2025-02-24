@@ -1,6 +1,7 @@
 # コンパイル結果やビルド成果物
 /target
 /Cargo.lock
+/bin
 
 # 実行ファイル
 /rust-algorithm-learning # プロジェクト名
